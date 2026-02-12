@@ -39,7 +39,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <netflix.feign.version>8.15.1</netflix.feign.version>
+        <netflix.feign.version>8.18.0</netflix.feign.version>
         <hystrix.version>1.5.1</hystrix.version>
         <java.main.class>com.redhat.developers.msa.goodbye.client.Main</java.main.class>
     </properties>
